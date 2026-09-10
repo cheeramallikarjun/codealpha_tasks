@@ -1,0 +1,5 @@
+Stock Portfolio Tracker
+-----------------------
+AAPL - 5 shares - Investment: 900
+-----------------------
+Final Total Investment: 900
